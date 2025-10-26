@@ -17,8 +17,8 @@ Fade-In Logo „Nobody OBDII“
 
 Klicke hier, um direkt im Browser zu flashen:
 
-[
-👉 Online Flasher:](https://esphome.github.io/esp-web-tools/?url=https://raw.githubusercontent.com/Nobody-OS/OBD_II/main/manifest.json)
+
+[![Flash CYD OBD2](https://img.shields.io/badge/Flash%20ESP32-Online-blue?logo=espressif)](https://esphome.github.io/esp-web-tools/?manifest=https://raw.githubusercontent.com/Nobody-OS/OBDII_Gauge/main/flash/manifest.json)
 
 
 **🔧 Hardware**
