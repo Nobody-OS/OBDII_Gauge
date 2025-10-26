@@ -26,8 +26,11 @@ Klicke hier, um direkt im Browser zu flashen:
 **🔧 Hardware**
 
 Board: ESP32-2432S028 (CYD)
+
 Display: ILI9341 (320x240)
+
 Touch: XPT2046
+
 Firmware: Arduino (TFT_eSPI, BLE, WiFi, WebServer, ArduinoJson)
 
 🧡 Donate (Buy me a Coffee)
