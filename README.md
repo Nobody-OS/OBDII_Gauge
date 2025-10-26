@@ -18,10 +18,8 @@ Fade-In Logo „Nobody OBDII“
 Klicke hier, um direkt im Browser zu flashen:
 
 
+[👉 Online Flasher:]([https://esphome.github.io/esp-web-tools/?url=https://raw.githubusercontent.com//OBDII_Gauge/main/manifest.json]
 
-
-[👉 Flash Nobody OBDII](https://esphome.github.io/esp-web-tools/?url=https://raw.githubusercontent.com/Nobody-OS/OBDII_Gauge/blob/main/manifest.json
-)
 
 **🔧 Hardware**
 
