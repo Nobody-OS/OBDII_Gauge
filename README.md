@@ -5,6 +5,7 @@
 **ESP32-OBD2 Dashboard für CYD (ESP32-2432S028, 2.8" ILI9341 Touch)**
 
 **⚙️ Features**
+
 BLE-Verbindung zum OBD2-Adapter (ELM327 kompatibel)
 SPORT / ECO / DATA / ERROR Modi
 Menü mit Einstellungen (Dark/Light Mode, Webserver-Info, GitHub-Link, Spenden)
@@ -23,6 +24,7 @@ Klicke hier, um direkt im Browser zu flashen:
 ]
 
 **🔧 Hardware**
+
 Board: ESP32-2432S028 (CYD)
 Display: ILI9341 (320x240)
 Touch: XPT2046
