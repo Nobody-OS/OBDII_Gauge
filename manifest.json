@@ -6,8 +6,9 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "NobodyOBDII.bin", "offset": 0 }
+        { "path": "CYD_OBD2_Gauge.ino.bin", "offset": 0 }
       ]
     }
   ]
 }
+
