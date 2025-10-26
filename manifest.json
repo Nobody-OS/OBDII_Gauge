@@ -1,12 +1,13 @@
 {
-  "name": "Nobody OBDII",
+  "name": "CYD OBD2 Gauge",
   "version": "1.0.0",
-  "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "NobodyOBDII.bin", "offset": 0 }
+        { "path": "CYD_OBD2_Gauge.ino.bootloader.bin", "offset": 4096 },
+        { "path": "CYD_OBD2_Gauge.ino.partitions.bin", "offset": 32768 },
+        { "path": "CYD_OBD2_Gauge.ino.bin", "offset": 65536 }
       ]
     }
   ]
