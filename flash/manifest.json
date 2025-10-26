@@ -1,23 +1,10 @@
 {
   "name": "CYD_OBD2_Gauge",
   "version": "1.0.0",
-  "build": "2025-10-26",
   "board": "esp32",
   "files": [
-    {
-      "name": "CYD_OBD2_Gauge.ino.bin",
-      "size": 1617509,
-      "path": "CYD_OBD2_Gauge.ino.bin"
-    },
-    {
-      "name": "CYD_OBD2_Gauge.ino.bootloader.bin",
-      "size": 123456,
-      "path": "CYD_OBD2_Gauge.ino.bootloader.bin"
-    },
-    {
-      "name": "CYD_OBD2_Gauge.ino.partitions.bin",
-      "size": 32768,
-      "path": "CYD_OBD2_Gauge.ino.partitions.bin"
-    }
+    { "name": "CYD_OBD2_Gauge.ino.bin", "path": "CYD_OBD2_Gauge.ino.bin", "size": 1625088 },
+    { "name": "CYD_OBD2_Gauge.ino.bootloader.bin", "path": "CYD_OBD2_Gauge.ino.bootloader.bin", "size": 19456 },
+    { "name": "CYD_OBD2_Gauge.ino.partitions.bin", "path": "CYD_OBD2_Gauge.ino.partitions.bin", "size": 3072 }
   ]
 }
