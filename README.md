@@ -36,5 +36,4 @@ Firmware: Arduino (TFT_eSPI, BLE, WiFi, WebServer, ArduinoJson)
 🧡 Donate (Buy me a Coffee)
 
 
-
-# Bitcoin: bc1qw67c33tt9ychvwat789cjvda9a9cnygdyr2wu0
+*Bitcoin: bc1qw67c33tt9ychvwat789cjvda9a9cnygdyr2wu0*
