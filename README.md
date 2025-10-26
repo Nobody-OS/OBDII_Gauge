@@ -19,7 +19,8 @@ Klicke hier, um direkt im Browser zu flashen:
 
 
 
-*👉 Flash Nobody OBDII*
+(👉 Flash Nobody OBDII)[https://esphome.github.io/esp-web-tools/?url=https://raw.githubusercontent.com/DEIN-GITHUB-NAME/Nobody-OBDII/main/manifest.json
+]
 
 **🔧 Hardware**
 Board: ESP32-2432S028 (CYD)
